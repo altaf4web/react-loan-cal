@@ -1,0 +1,178 @@
+body {
+	background-color: #ddd;
+	margin: 50px auto;
+}
+
+.box-design{
+	margin-bottom: 4rem;
+}
+.box-design h4{
+	margin: 20px 0px 50px;
+}
+.eligibilitycalculator .panel {
+    box-shadow: 0 0 20px #d2d2d2;
+}
+.eligibilitycalculator .panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.eligibilitycalculator .panel-default>.panel-heading {
+    background: #00e5a0;
+    padding-top: 15px;
+    padding-left: 48px;
+    padding-bottom: 5px !important;
+    text-align: center;
+}
+.eligibilitycalculator .panel-title {
+    margin-bottom: 15px;
+}
+.eligibilitycalculator .panel-title>a {
+    font-size: 22px;
+    color: #fff;
+    text-align: left;
+}
+.eligibilitycalculator .panel-default>.panel-heading, .eligibilitycalculator .panel-default>.panel-body {
+    border-top: 0;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-bottom: 43px;
+}
+.pointerspace {
+    padding-top: 30px;
+}
+
+.greenpad, .greenpad1, .greenpad2 {
+    padding-right: 0;
+}
+.greentext2 {
+    width: 100%;
+    background: #00e5a0;
+    margin-top: 0;
+}
+.greentext2 p {
+    font-size: 12px;
+    color: #fff;
+}
+.greentext2 h2 {
+    font-size: 24px;
+    color: #fff;
+    margin-top: 22px;
+}
+.newgreentext2 {
+    width: 100%;
+    background: #448aff;
+    margin-top: 0;
+}
+.newgreentext2 p {
+    font-size: 12px;
+    color: #fff;
+}
+.newgreentext2 h2 {
+    font-size: 24px;
+    color: #fff;
+    margin-top: 22px;
+}
+.newgreentext3 {
+    width: 100%;
+    background: #aaa;
+    margin-top: 0;
+}
+.newgreentext3 p {
+    font-size: 12px;
+    color: #fff;
+}
+.newgreentext3 h2 {
+    font-size: 24px;
+    color: #fff;
+    margin-top: 22px;
+}
+.input-range {
+	/*margin: 2px 15px;*/
+}
+.greentext2, .newgreentext2, .newgreentext3 {
+    padding: 10px 20px;
+    min-height: 96px;
+    border-radius: 2px;
+    float: left;
+}
+.input-range__label-container {
+	color: #212529;
+	font-size: 16px;
+}
+
+.input-range__label--min,
+.input-range__label--max {
+	top: 25px !important;
+	display: none;
+}
+
+.input-range__label--value {
+	top: -33px;
+}
+
+.interest-data {
+	font-size: 1.3rem;
+
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+}
+
+.interest-label {
+	color: #554c4c;
+}
+
+.interest-display,
+.payment-display,
+.number-display {
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.form-group {
+	margin-bottom: 2rem;
+}
+
+.navbar-brand {
+	font-size: 1.75rem;
+}
+
+.data-display {
+	color: #2881d9;
+}
+
+.footer {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+}
+
+.card {
+	padding: 50px;
+	background: #fff;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #c0b1b1;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+/*Media queries for smaller devices*/
+
+@media only screen and (max-width: 600px) {
+	.mb-5 {
+		margin-bottom: 2rem !important;
+	}
+}
