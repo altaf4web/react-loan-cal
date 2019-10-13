@@ -6,7 +6,7 @@ A loan interest calculator made with React.
 
 ## Screenshot:
 
-<img src="public/screenshot.PNG">
+<img src="public/screenshots.PNG">
 
 ## Features
 
