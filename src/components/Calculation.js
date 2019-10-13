@@ -101,7 +101,7 @@ class App extends Component {
 			                            </div>
 			                            <div className="col-sm-4 greenpad2">
 			                                <div className="newgreentext3">
-			                                    <p>Monthly Payment</p>
+			                                    <p>Number of Payments</p>
 			                                    <h2> <span className="loanEmiAmt">${this.state.numPayments}</span></h2>
 			                                </div>
 			                            </div>
